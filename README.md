@@ -1,2 +1,2 @@
 # game_script
-make game script
+##大家一起学game脚本
